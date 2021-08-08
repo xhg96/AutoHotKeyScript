@@ -1,0 +1,2 @@
+# AutoHotKeyScript
+windows customize hotkeys
